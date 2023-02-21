@@ -10,6 +10,6 @@ Run app.py to test system
 
 <div align="center">
     <a href="./">
-        <img src="./Screenshot 2023-02-21 174719.jpg" width="59%"/>
+        <img src="./Screenshot 2023-02-21 174719.jpg" width="100%"/>
     </a>
 </div>
