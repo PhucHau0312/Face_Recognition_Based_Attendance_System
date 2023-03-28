@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this project, I build a face recognition based attendance system, OpenCV to detect faces using a haarcascade classifier and then use a K-Nearest Neighbor (KNN) Algorithm to identify.
+In this project, I build a face recognition based attendance system, Silent Face Anti-Spoofing Model (backbone: MiniFASNet) to detect spoofing, OpenCV to detect faces using a haarcascade classifier and K-Nearest Neighbor (KNN) Algorithm to identify. Then deploy on web by Flask. 
 
 ## Testing 
 
